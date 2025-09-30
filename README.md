@@ -1,4 +1,4 @@
-# 🛕 PiligrimPal
+# 🛕 PiligrimPal made by team technoova
 
 PiligrimPal is a smart and user-friendly application designed to assist devotees and travelers during their spiritual journeys. It provides features like temple navigation, event updates, ticket booking, and personalized guidance for a seamless pilgrimage experience.
 
